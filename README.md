@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Zeyuan Zhang
--  I’m currently a senior student at Duke Kunshan University
--  Major: Computer Science
--  Programming language: Python, Java, SQL, HTML, CSS, Javascript
--  Framework and tools: Pandas, Tableau, Pycharm, Visual Studio Code, Latex, DeepFace, OpenCV, Transformers, Flask
-- 📫 How to reach me: zz290@duke.edu
+-  I’m currently a first-year master student at Duke University
+-  Major: Electrical and Computer Engineering
+-  Programming language: Python, Java, C/C++, SQL, JavaScript (React, Node.js), HTML/CSS
+-  Backend & Tools: Flask, RESTful API, Docker, Git, MySQL, Linux/Unix (Shell, Command Line), Emacs
+-  Data & AI: PySpark, Pandas, SnowNLP, Tableau
+- 📫 How to reach me: zeyuan.zhang@duke.edu
 
 
 <!---
