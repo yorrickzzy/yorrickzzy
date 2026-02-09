@@ -2,7 +2,7 @@
 -  I’m currently a first-year master student at Duke University
 -  Major: Electrical and Computer Engineering(Computer Software Engineering track)
 -  Programming: Python, Java, C/C++, SQL, JavaScript
--  Backend & Systems: Flask, Django, RESTful APIs, Docker, Git, Linux
+-  Backend & Systems: Flask, Django, RESTful APIs, Docker, Git, Linux, Gradle, JUnit  
 -  Data & Tools: PySpark, Pandas, MySQL, PostgreSQL
 - 📫 How to reach me: zeyuan.zhang@duke.edu / zzy0110@126.com
 
